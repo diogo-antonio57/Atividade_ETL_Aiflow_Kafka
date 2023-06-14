@@ -4,7 +4,7 @@ Atividade da trilha IBM Data Engineering - etl and data pipelines shell airflow 
 
 ## Sobre
 
-Essa atividade coniste no aprendizado de Extração, Tranformção e Carregamento dos dados (ETL). A primeira etapa de extração é responsável pela aquisição dos arquivos e extrair de forma que possam ser acessados, a segunda etapa que é transformação realiza a preparação dos dados par que fiquem no formato correto para a utilização e a última etapa de carregamento dos dados é responsável pela publicação dos dados.
+Essa atividade consiste no aprendizado de Extração, Tranformção e Carregamento dos dados (ETL). A primeira etapa de extração é responsável pela aquisição dos arquivos e extrair de forma que possam ser acessados, a segunda etapa que é transformação realiza a preparação dos dados par que fiquem no formato correto para a utilização e a última etapa de carregamento dos dados é responsável pela publicação dos dados.
 
 ## Dependências
 
